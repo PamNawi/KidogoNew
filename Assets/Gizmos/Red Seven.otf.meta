@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fb66d8b9d29529f45a357beefdc2a97c
+timeCreated: 1485630959
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Red Seven
+  fontNames:
+  - Red Seven
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
